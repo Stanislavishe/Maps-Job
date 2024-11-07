@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test Maps Job</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="point_info_name">Название</string>
+    <string name="point_info_address">Адресс</string>
+    <string name="point_info_delete">Удалить метку</string>
+    <string name="point_info_navigation">Построить маршрут</string>
+    <string name="create_name_title">Придумайте название для новой точки</string>
+    <string name="create_name_apply">Подтвердить</string>
+    <string name="create_name_edit_name">Введите название</string>
+    <string name="dialog_title">У приложения нет доступа к вашему местоположению</string>
+    <string name="ok">Ок</string>
+    <string name="address_not_found">Адресс не найден</string>
+    <string name="error">Ошибка</string>
+    <string name="add_point_access">Точка добавлена</string>
+    <string name="no_name">Без названия</string>
+    <string name="delete_point_success">Точка удалена</string>
+    <string name="please_await">Немного подождите</string>
+    <string name="no_permmission">Нет разрешения</string>
+    <string name="clear_polyline">clear polylie</string>
+</resources>
